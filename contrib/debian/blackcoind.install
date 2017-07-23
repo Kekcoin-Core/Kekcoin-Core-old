@@ -1,0 +1,2 @@
+debian/bin/kekcoind usr/bin
+src/kekcoind usr/lib/kekcoin

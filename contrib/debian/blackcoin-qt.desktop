@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=KekCoin
+Comment=KekCoin P2P Cryptocurrency
+Comment[fr]=KekCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=KekCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/kekcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/kekcoin;
+Categories=Office;
